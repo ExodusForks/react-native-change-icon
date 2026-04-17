@@ -1,7 +1,7 @@
 {
-  "name": "react-native-change-icon",
+  "name": "@exodus/react-native-change-icon",
   "title": "React Native Change Icon",
-  "version": "5.0.0",
+  "version": "5.0.0-exodus.0",
   "description": "Change application icon programmatically in React-Native.",
   "main": "dist/index.js",
   "source": "src/index.ts",
@@ -42,7 +42,7 @@
   "peerDependencies": {
     "react-native": "*"
   },
-  "packageManager": "^yarn@1.22.19",
+  "packageManager": "yarn@1.22.19",
   "codegenConfig": {
     "name": "RNChangeIconSpec",
     "type": "all",
