@@ -1,7 +1,7 @@
 {
   "name": "@exodus/react-native-change-icon",
   "title": "React Native Change Icon",
-  "version": "5.0.0-exodus.1",
+  "version": "5.0.0-exodus.2",
   "description": "Change application icon programmatically in React-Native.",
   "main": "dist/index.js",
   "source": "src/index.ts",
